@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budget", "Budget\Budget.csproj", "{950343B6-C6CA-4646-B485-B1CB62AE6924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackOffice", "BackOffice\BackOffice.csproj", "{4A672BA8-A677-47F7-9A3C-91C00948C5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetCBL", "ClassLibrary\BudgetCBL.csproj", "{78665F8C-9A51-491B-B74D-020157284CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950343B6-C6CA-4646-B485-B1CB62AE6924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950343B6-C6CA-4646-B485-B1CB62AE6924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950343B6-C6CA-4646-B485-B1CB62AE6924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950343B6-C6CA-4646-B485-B1CB62AE6924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A672BA8-A677-47F7-9A3C-91C00948C5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A672BA8-A677-47F7-9A3C-91C00948C5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A672BA8-A677-47F7-9A3C-91C00948C5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A672BA8-A677-47F7-9A3C-91C00948C5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78665F8C-9A51-491B-B74D-020157284CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78665F8C-9A51-491B-B74D-020157284CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78665F8C-9A51-491B-B74D-020157284CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78665F8C-9A51-491B-B74D-020157284CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

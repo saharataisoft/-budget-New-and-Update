@@ -1,0 +1,9 @@
+D:\Budget\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Budget\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Budget\ClassLibrary\bin\Debug\Microsoft.ApplicationBlocks.Cache.dll
+D:\Budget\ClassLibrary\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Budget\ClassLibrary\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+D:\Budget\ClassLibrary\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+D:\Budget\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Budget\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Budget\ClassLibrary\obj\Debug\ClassLibrary.pdb

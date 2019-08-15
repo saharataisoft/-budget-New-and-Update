@@ -1,0 +1,13 @@
+D:\Budget\ClassLibrary\bin\Debug\Microsoft.ApplicationBlocks.Cache.dll
+D:\Budget\ClassLibrary\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Budget\ClassLibrary\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+D:\Budget\ClassLibrary\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.Interfaces.dll
+D:\Budget\ClassLibrary\bin\Debug\BudgetCBL.dll
+D:\Budget\ClassLibrary\bin\Debug\BudgetCBL.pdb
+D:\Budget\BackOffice\bin\BudgetCBL.dll
+D:\Budget\BackOffice\bin\BudgetCBL.pdb
+D:\Budget\ClassLibrary\obj\Debug\BudgetCBL.csprojAssemblyReference.cache
+D:\Budget\ClassLibrary\obj\Debug\BudgetCBL.csproj.CoreCompileInputs.cache
+D:\Budget\ClassLibrary\obj\Debug\BudgetCBL.csproj.CopyComplete
+D:\Budget\ClassLibrary\obj\Debug\BudgetCBL.dll
+D:\Budget\ClassLibrary\obj\Debug\BudgetCBL.pdb
